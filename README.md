@@ -5,6 +5,9 @@ just paste it on the /usr/local/bin directory to use it from anywhere
 ## EXAMPLE USAGE ##
 
 ./shodanIP.sh target.com
+
 ./shodanTITLE.sh target.com
+
 ./shodan_ip_PORT.sh IP.txt
+
 ./shodan_ip_TITLE.sh IP.txt
